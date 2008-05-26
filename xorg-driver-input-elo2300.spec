@@ -1,12 +1,12 @@
 Summary:	X.org input driver for ELOGraphics 2300 touch screens
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla ekranów dotykowych ELOGraphics 2300
 Name:		xorg-driver-input-elo2300
-Version:	1.1.1
+Version:	1.1.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-elo2300-%{version}.tar.bz2
-# Source0-md5:	4eef20f44954d49571a10b9134fdb663
+# Source0-md5:	611d0a77a80286bc926dd3c414e59555
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
